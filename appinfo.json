@@ -1,0 +1,36 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Xander Dumaine",
+    "enableMultiJS": false,
+    "longName": "Polardot UTC",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/polardot.png",
+                "name": "BACKGROUND_IMAGE",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "compatibility": "2.7",
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Polardot UTC",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "74230ae5-f84a-4139-9318-9f575abb5833",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
